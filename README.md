@@ -60,7 +60,7 @@ El proyecto utiliza un **modelo estrella** con 4 tablas relacionadas:
 - Scatter plot: rentabilidad por subcategoría (ventas vs ganancia)
 
 ### Página 5 - 
-- Scatter plor: ganancias vs descuentos
+- Scatter plor: relación entre descuento promedio y ganancia por subcategoría.
 ---
  
 ## 📈 Principales hallazgos
