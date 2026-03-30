@@ -84,6 +84,7 @@ El proyecto utiliza un **modelo estrella** con 4 tablas relacionadas:
  
 - **2017** fue el año de mayor desempeño, con el doble de órdenes (~2,000) respecto a años anteriores (~1,000)
 - **2015** fue el año con peor desempeño, registrando un decrecimiento del 2.8% YoY
+- **2016** tras el decrecimiento del año anterior, la empresa mostró una fuerte recuperación en 2016 con un crecimiento YoY, el mayor crecimiento porcentual del período. Esto sugiere que el decrecimiento de 2015 fue temporal y no una tendencia sostenida. 
 
 ### Análisis por categoría del periodo
 <img width="1408" height="801" alt="2 Analisis de ventas" src="https://github.com/user-attachments/assets/569fd503-bd32-4a18-a6bc-07eb6df6778e" /> 
